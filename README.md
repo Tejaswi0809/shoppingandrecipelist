@@ -4,7 +4,7 @@ This project was generated with [Angular CLI]
 
 ##Development server
 
-Run `ngserve` for a dev server.Navigate to `http://localhost:4200/`.This app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server.Navigate to `http://localhost:4200/`.This app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -16,7 +16,7 @@ Run `ng build` to build the project.The build artificates will be stored in the 
 
 ##Running unit tests
 
-Run `ngtest` to execute the unit tests via [karma]
+Run `ng test` to execute the unit tests via [karma]
 
 ##Running end-to-end tests
 
