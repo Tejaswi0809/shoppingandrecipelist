@@ -12,11 +12,11 @@ Run `ng generate component component-name` to generate a new component.You can a
 
 ##Build
 
-Run `nguild` to build the project.The build artificates will be stored in the `dist/`directory.Use the `--prod`flag for a production build.
+Run `ng build` to build the project.The build artificates will be stored in the `dist/`directory.Use the `--prod`flag for a production build.
 
 ##Running unit tests
 
-Run `ngtest` to execute the unit test via [karma]
+Run `ngtest` to execute the unit tests via [karma]
 
 ##Running end-to-end tests
 
